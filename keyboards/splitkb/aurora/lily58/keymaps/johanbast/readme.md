@@ -1,7 +1,8 @@
 # JBs Lily58's Graphite Keymap
 
 First version of a Graphite layout for my newly built lily58
-![lily58](keyboards/splitkb/aurora/lily58/keymaps/johanbast/lily58.jpg)
+
+![lily58](lily58.jpg)
 
 ### Layer 0: Base layer (Graphite)
 
