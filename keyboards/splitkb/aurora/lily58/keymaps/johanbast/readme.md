@@ -2,8 +2,6 @@
 
 First version of a Graphite layout for my newly built lily58
 
-![lily58](lily58.jpg)
-
 ### Layer 0: Base layer (Graphite)
 
 Default Graphite layout
