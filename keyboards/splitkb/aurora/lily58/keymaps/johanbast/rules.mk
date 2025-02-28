@@ -1,0 +1,3 @@
+RGB_MATRIX_ENABLE = yes
+RGBLIGHT_ENABLE = no
+CONVERT_TO = liatris
